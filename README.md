@@ -1,3 +1,14 @@
-#QFramewordLearn_InventorySystem /c/Users/FUN
-#QFramewordLearn_InventorySystem
-#QFramewordLearn_InventorySystem
+### v0.01
+- [x] 纸上谈兵
+### v0.02
+- [x] 创建MVC
+- [x] 引入Command，处理添加 / 删除物品逻辑
+- [x] 通过TypeEventSystem处理其他类通过事件添加 / 删除物品的逻辑
+### v0.03
+- [x] 搭建简易UI界面
+- [x] 界面和逻辑进行联系
+### v0.04
+- [x] 点击显示物品信息
+### v0.05
+- [x] 数据持久化
+- [x] 整理代码
